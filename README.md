@@ -2,7 +2,7 @@
 
 本仓库是 **Risk Zoo**（投资组合持仓管理与风险分析系统）的公开介绍页源站，仅承载产品说明、架构介绍与计算口径，不包含原项目的任何源码、配置、数据或 git 历史。
 
-在线地址：部署后在本文件顶部补充 Pages 链接。
+在线地址：[https://bnycx.github.io/risk-zoo/](https://bnycx.github.io/risk-zoo/)
 
 ## 内容边界
 
